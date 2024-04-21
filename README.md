@@ -3,4 +3,4 @@ Mutes an game or application when not in the main window. [The mute application 
 
 [Original Link][1]
 
-[1]: https://superuser.com/questions/1438597/how-do-i-make-windows-mute-background-applications
+[1]: https://superuser.com/questions/1438597/how-do-i-make-windows-mute-background-applications{:target="_blank"}
